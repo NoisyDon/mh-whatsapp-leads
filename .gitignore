@@ -11,3 +11,4 @@
 
 # any other temp folders
 node_modules/
+env.yaml
