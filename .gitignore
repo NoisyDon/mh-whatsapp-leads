@@ -1,0 +1,13 @@
+# WhatsApp-JS session data & cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# local env files
+.env
+.env.example
+
+# log files
+*.log
+
+# any other temp folders
+node_modules/
